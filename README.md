@@ -25,7 +25,7 @@ Independently designed and developed an AI-based system that detects and transla
 
 ### 🤖 Robotics Projects
 Individually built and programmed robots using sensors and microcontrollers to perform real-world automated tasks and autonomous behaviors.  
-**Technologies:** Arduino, Raspberry Pi, Python, Sensors
+**Technologies:** Arduino, Python, Sensors
 
 ### 🤖 AI Chatbot
 Individually Developed an intelligent chatbot hosted on **Amazon Web Services (AWS)** for scalable, cloud-based interactions.  
